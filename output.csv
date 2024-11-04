@@ -1,0 +1,238 @@
+country,label,short_label,continent_code,area_label,area_code,method_incidence,method_mortality,grouping,color,order,country_code,country_iso3,country_isonum,hdi_value,hdi_group,hdi_globocan_code,hdi_label,income_label,income_group,income_globocan_code,hub,hub_label,hub_globocan_code,who_region,who_label,who_globocan_code
+4,Afghanistan,Afghanistan,4,South Central Asia,12,9,3c,Asia,#14b755,107,4,AFG,4,0.478,1,984,Low HDI,Low income,4,990,M,"South, East and South-Eastern Asia Hub",974,EMRO,WHO East Mediterranean region (EMRO),993
+8,Albania,Albania,5,Southern Europe,16,2a,3b,Europe,#1714b7,127,8,ALB,8,0.796,3,982,High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+12,Algeria,Algeria,1,Northern Africa,3,2b,3c,Africa,#b73b14,53,12,DZA,12,0.745,3,982,High HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,AFRO,WHO Africa region (AFRO),991
+24,Angola,Angola,1,Middle Africa,2,2a,3c,Africa,#b72714,54,24,AGO,24,0.586,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+31,Azerbaijan,Azerbaijan,4,Western Asia,13,3c,1,Asia,#47eac8,109,31,AZE,31,0.745,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+32,Argentina,Argentina,2,South America,8,3c,1,Latin America and the Caribbean,#a0b714,127,32,ARG,32,0.842,4,981,Very High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+36,Australia,Australia,6,Australia/New Zealand,18,1,1,Oceania,#b714a7,127,36,AUS,36,0.951,4,981,Very High HDI,High income,1,987,"",,,WPRO,WHO Western Pacific region (WPRO),996
+40,Austria,Austria,5,Western Europe,17,1,1,Europe,#3914b7,127,40,AUT,40,0.916,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+44,Bahamas,Bahamas,2,Caribbean,6,3c,1,Latin America and the Caribbean,#b7a714,127,44,BHS,44,0.812,4,981,Very High HDI,High income,1,987,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+48,Bahrain,Bahrain,4,Western Asia,13,3c,1,Asia,#0f896f,110,48,BHR,48,0.875,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+50,Bangladesh,Bangladesh,4,South Central Asia,12,9,3c,Asia,#47ea88,111,50,BGD,50,0.661,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+51,Armenia,Armenia,4,Western Asia,13,3c,1,Asia,#14b795,108,51,ARM,51,0.759,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+52,Barbados,Barbados,2,Caribbean,6,3c,1,Latin America and the Caribbean,#eada47,127,52,BRB,52,0.79,3,982,High HDI,High income,1,987,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+56,Belgium,Belgium,5,Western Europe,17,1,1,Europe,#6c47ea,127,56,BEL,56,0.937,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+64,Bhutan,Bhutan,4,South Central Asia,12,9,3c,Asia,#0f8940,112,64,BTN,64,0.666,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+68,Bolivia,Bolivia,2,South America,8,3c,1,Latin America and the Caribbean,#d3ea47,127,68,BOL,68,0.692,2,983,Medium HDI,Lower middle income,3,989,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+70,Bosnia Herzegovina,Bosnia Herzegovina,5,Southern Europe,16,3a,2a,Europe,#4a47ea,127,70,BIH,70,0.78,3,982,High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+72,Botswana,Botswana,1,Southern Africa,4,1,3c,Africa,#b74f14,56,72,BWA,72,0.693,2,983,Medium HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+76,Brazil,Brazil,2,South America,8,3c,1,Latin America and the Caribbean,#78890f,127,76,BRA,76,0.754,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+84,Belize,Belize,2,Central America,7,3c,1,Latin America and the Caribbean,#b4b714,127,84,BLZ,84,0.683,2,983,Medium HDI,Lower middle income,3,989,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+90,Solomon Islands,Solomon Islands,6,Melanesia,19,9,3c,Oceania,#ef75cd,127,90,SLB,90,0.564,2,983,Medium HDI,Lower middle income,3,989,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+96,Brunei Darussalam,Brunei Darussalam,4,South-Eastern Asia,11,1,1,Asia,#14b716,113,96,BRN,96,0.829,4,981,Very High HDI,High income,1,987,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+100,Bulgaria,Bulgaria,5,Eastern Europe,14,1,1,Europe,#4788ea,127,100,BGR,100,0.795,3,982,High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+104,Myanmar,Myanmar,4,South-Eastern Asia,11,9,3c,Asia,#28a32a,127,104,MMR,104,0.585,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+108,Burundi,Burundi,1,Eastern Africa,1,9,3c,Africa,#b71414,58,108,BDI,108,0.426,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+112,Belarus,Belarus,5,Eastern Europe,14,1,2a,Europe,#1455b7,127,112,BLR,112,0.808,4,981,Very High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+116,Cambodia,Cambodia,4,South-Eastern Asia,11,9,3c,Asia,#47ea49,114,116,KHM,116,0.593,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+120,Cameroon,Cameroon,1,Middle Africa,2,9,3c,Africa,#ea5a47,59,120,CMR,120,0.576,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+124,Canada,Canada,3,Northern America,9,1,1,Northern America,#D47A92,127,124,CAN,124,0.936,4,981,Very High HDI,High income,1,987,NoA,,,PAHO,WHO Americas region (PAHO),992
+132,Cape Verde,Cape Verde,1,Western Africa,5,1,1,Africa,#894a0f,60,132,CPV,132,0.662,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+140,Central African Republic,Central African Rep.,1,Middle Africa,2,9,3c,Africa,#891d0f,61,140,CAF,140,0.404,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+144,Sri Lanka,Sri Lanka,4,South Central Asia,12,2a,3c,Asia,#00cc51,127,144,LKA,144,0.782,3,982,High HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+148,Chad,Chad,1,Middle Africa,2,2a,3c,Africa,#ef8375,62,148,TCD,148,0.394,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+152,Chile,Chile,2,South America,8,3c,1,Latin America and the Caribbean,#deef75,127,152,CHL,152,0.855,4,981,Very High HDI,High income,1,987,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+160,China,China,4,Eastern Asia,10,2b,3c,Asia,#52b714,115,160,CHN,156,0.768,3,982,High HDI,Upper middle income,2,988,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+170,Colombia,Colombia,2,South America,8,3c,1,Latin America and the Caribbean,#b6cc32,127,170,COL,170,0.752,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+174,Comoros,Comoros,1,Eastern Africa,1,9,3c,Africa,#ea4747,63,174,COM,174,0.558,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+178,"Congo, Republic of",Congo,1,Middle Africa,2,2a,3c,Africa,#a33728,65,178,COG,178,0.571,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+180,"Congo, Democratic Republic of","Congo, Dem. Rep. of",1,Middle Africa,2,9,3c,Africa,#cc4532,64,180,COD,180,0.479,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+188,Costa Rica,Costa Rica,2,Central America,7,1,1,Latin America and the Caribbean,#e7ea47,127,188,CRI,188,0.809,4,981,Very High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+191,Croatia,Croatia,5,Southern Europe,16,1,1,Europe,#110f89,127,191,HRV,191,0.858,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+192,Cuba,Cuba,2,Caribbean,6,3c,1,Latin America and the Caribbean,#897d0f,127,192,CUB,192,0.764,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+196,Cyprus,Cyprus,5,Southern Europe,16,1,1,Europe,#7775ef,127,196,CYP,196,0.896,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+203,Czechia,Czechia,5,Eastern Europe,14,1,1,Europe,#0f4089,127,203,CZE,203,0.889,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+204,Benin,Benin,1,Western Africa,5,2b,3c,Africa,#b76214,55,204,BEN,204,0.525,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+208,Denmark,Denmark,5,Northern Europe,15,1,1,Europe,#1433b7,127,208,DNK,208,0.948,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+214,Dominican Republic,Dominican Rep.,2,Caribbean,6,3c,1,Latin America and the Caribbean,#efe375,127,214,DOM,214,0.767,3,982,High HDI,Upper middle income,2,988,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+218,Ecuador,Ecuador,2,South America,8,3c,1,Latin America and the Caribbean,#92a328,127,218,ECU,218,0.74,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+222,El Salvador,El Salvador,2,Central America,7,3c,1,Latin America and the Caribbean,#87890f,127,222,SLV,222,0.675,2,983,Medium HDI,Lower middle income,3,989,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+226,Equatorial Guinea,Equatorial Guinea,1,Middle Africa,2,9,3c,Africa,#d66a5b,69,226,GNQ,226,0.596,2,983,Medium HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+231,Ethiopia,Ethiopia,1,Eastern Africa,1,2a,3c,Africa,#cc3232,71,231,ETH,231,0.498,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+232,Eritrea,Eritrea,1,Eastern Africa,1,9,3c,Africa,#ef7575,70,232,ERI,232,0.492,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+233,Estonia,Estonia,5,Northern Europe,15,1,1,Europe,#4766ea,127,233,EST,233,0.89,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+242,Fiji,Fiji,6,Melanesia,19,3c,1,Oceania,#b71489,127,242,FJI,242,0.73,3,982,High HDI,Upper middle income,2,988,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+246,Finland,Finland,5,Northern Europe,15,1,1,Europe,#0f2689,127,246,FIN,246,0.94,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+250,France (metropolitan),France,5,Western Europe,17,3a,1,Europe,#2b0f89,127,250,FRA,250,0.903,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+254,French Guyana,Fr. Guyana,2,South America,8,1,3c,Latin America and the Caribbean,#c5d65b,127,254,GUF,254,,,,,,,,"",,,PAHO,WHO Americas region (PAHO),992
+258,French Polynesia,Fr. Polynesia,6,Polynesia,21,1,3c,Oceania,#b7144f,127,258,PYF,258,,,,,High income,1,987,"",,,WPRO,WHO Western Pacific region (WPRO),996
+262,Djibouti,Djibouti,1,Eastern Africa,1,9,3c,Africa,#890f0f,67,262,DJI,262,0.509,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,EMRO,WHO East Mediterranean region (EMRO),993
+266,Gabon,Gabon,1,Middle Africa,2,1,3c,Africa,#7a291e,73,266,GAB,266,0.706,3,982,High HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+268,Georgia,Georgia,4,Western Asia,13,3c,1,Asia,#75efd5,116,268,GEO,268,0.802,4,981,Very High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+270,The Republic of the Gambia,The Gambia,1,Western Africa,5,1,3c,Africa,#8e643d,101,270,GMB,270,0.5,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+275,Gaza Strip and West Bank,State of Palestine,4,Western Asia,13,9,3c,Asia,#00cca1,127,275,PSE,275,0.715,3,982,High HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+276,Germany,Germany,5,Western Europe,17,3a,1,Europe,#9175ef,127,276,DEU,276,0.942,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+288,Ghana,Ghana,1,Western Africa,5,2a,3c,Africa,#cc7c32,74,288,GHA,288,0.632,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+300,Greece,Greece,5,Southern Europe,16,3b,1,Europe,#3632cc,127,300,GRC,300,0.887,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+312,"France, Guadeloupe",Fr. Guadeloupe,2,Caribbean,6,1,3c,Latin America and the Caribbean,#ccbc32,127,312,GLP,312,,,,,,,,"",,,PAHO,WHO Americas region (PAHO),992
+316,Guam,Guam,6,Micronesia,20,9,3c,Oceania,#b7146c,127,316,GUM,316,,,,,High income,1,987,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+320,Guatemala,Guatemala,2,Central America,7,3c,1,Latin America and the Caribbean,#edef75,127,320,GTM,320,0.627,2,983,Medium HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+324,Guinea,Guinea,1,Western Africa,5,2a,3c,Africa,#a36328,75,324,GIN,324,0.465,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+328,Guyana,Guyana,2,South America,8,3c,1,Latin America and the Caribbean,#6d7a1e,127,328,GUY,328,0.714,3,982,High HDI,Upper middle income,2,988,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+332,Haiti,Haiti,2,Caribbean,6,3c,1,Latin America and the Caribbean,#d6c95b,127,332,HTI,332,0.535,1,984,Low HDI,Lower middle income,3,989,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+340,Honduras,Honduras,2,Central America,7,2a,1,Latin America and the Caribbean,#c8cc32,127,340,HND,340,0.621,2,983,Medium HDI,Lower middle income,3,989,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+348,Hungary,Hungary,5,Eastern Europe,14,3b,1,Europe,#75a6ef,127,348,HUN,348,0.846,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+352,Iceland,Iceland,5,Northern Europe,15,1,1,Europe,#758cef,127,352,ISL,352,0.959,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+356,India,India,4,South Central Asia,12,2b,3c,Asia,#75efa6,117,356,IND,356,0.633,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+360,Indonesia,Indonesia,4,South-Eastern Asia,11,9,3c,Asia,#0f8910,118,360,IDN,360,0.705,3,982,High HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+364,Iran (Islamic Republic of),Iran,4,South Central Asia,12,2b,1,Asia,#32cc70,119,364,IRN,364,0.774,3,982,High HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,EMRO,WHO East Mediterranean region (EMRO),993
+368,Iraq,Iraq,4,Western Asia,13,1,3c,Asia,#32ccab,120,368,IRQ,368,0.686,2,983,Medium HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+372,Ireland,Ireland,5,Northern Europe,15,1,1,Europe,#3250cc,127,372,IRL,372,0.945,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+376,Israel,Israel,4,Western Asia,13,1,1,Asia,#28a389,121,376,ISR,376,0.919,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+380,Italy,Italy,5,Southern Europe,16,3a,1,Europe,#2b28a3,127,380,ITA,380,0.895,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+384,Côte d'Ivoire,Côte d'Ivoire,1,Western Africa,5,2a,3c,Africa,#efb075,66,384,CIV,384,0.55,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+388,Jamaica,Jamaica,2,Caribbean,6,3c,1,Latin America and the Caribbean,#7a711e,127,388,JAM,388,0.709,3,982,High HDI,Upper middle income,2,988,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+392,Japan,Japan,4,Eastern Asia,10,3c,1,Asia,#85ea47,122,392,JPN,392,0.925,4,981,Very High HDI,High income,1,987,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+398,Kazakhstan,Kazakhstan,4,South Central Asia,12,1,1,Asia,#28a359,124,398,KAZ,398,0.811,4,981,Very High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+400,Jordan,Jordan,4,Western Asia,13,1,3c,Asia,#5bd6bc,123,400,JOR,400,0.72,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+404,Kenya,Kenya,1,Eastern Africa,1,2b,3c,Africa,#d65b5b,77,404,KEN,404,0.575,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+408,Korea (Democratic People Republic of),"Korea, Dem. People. Rep. of",4,Eastern Asia,10,9,3c,Asia,#3d890f,125,408,PRK,408,,,,,Low income,4,990,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+410,Republic of Korea,"Korea, Rep.",4,Eastern Asia,10,1,1,Asia,#a3ef75,126,410,KOR,410,0.925,4,981,Very High HDI,High income,1,987,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+414,Kuwait,Kuwait,4,Western Asia,13,1,3c,Asia,#1e7a67,127,414,KWT,414,0.831,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+417,Kyrgyzstan,Kyrgyzstan,4,South Central Asia,12,3c,1,Asia,#5bd68c,127,417,KGZ,417,0.692,2,983,Medium HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+418,Lao People's Democratic Republic,Lao People's Dem.,4,South-Eastern Asia,11,9,3c,Asia,#75ef76,127,418,LAO,418,0.607,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+422,Lebanon,Lebanon,4,Western Asia,13,1,3c,Asia,#84e0cd,127,422,LBN,422,0.706,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+426,Lesotho,Lesotho,1,Southern Africa,4,9,3c,Africa,#ea8247,78,426,LSO,426,0.514,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+428,Latvia,Latvia,5,Northern Europe,15,1,1,Europe,#2840a3,127,428,LVA,428,0.863,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+430,Liberia,Liberia,1,Western Africa,5,9,3c,Africa,#7a4a1e,79,430,LBR,430,0.481,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+434,Libya,Libya,1,Northern Africa,3,2a,3c,Africa,#892c0f,80,434,LBY,434,0.718,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+440,Lithuania,Lithuania,5,Northern Europe,15,1,1,Europe,#5b73d6,127,440,LTU,440,0.875,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+442,Luxembourg,Luxembourg,5,Western Europe,17,3b,1,Europe,#5632cc,127,442,LUX,442,0.93,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+450,Madagascar,Madagascar,1,Eastern Africa,1,9,3c,Africa,#7a1e1e,81,450,MDG,450,0.501,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+454,Malawi,Malawi,1,Eastern Africa,1,2a,3c,Africa,#e08484,82,454,MWI,454,0.512,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+458,Malaysia,Malaysia,4,South-Eastern Asia,11,9,3c,Asia,#32cc34,127,458,MYS,458,0.803,4,981,Very High HDI,Upper middle income,2,988,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+462,Maldives,Maldives,4,South Central Asia,12,9,3c,Asia,#1e7a43,127,462,MDV,462,0.747,3,982,High HDI,Upper middle income,2,988,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+466,Mali,Mali,1,Western Africa,5,2a,3c,Africa,#e0b084,83,466,MLI,466,0.428,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+470,Malta,Malta,5,Southern Europe,16,1,1,Europe,#201e7a,127,470,MLT,470,0.918,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+474,"France, Martinique",Fr. Martinique,2,Caribbean,6,1,3c,Latin America and the Caribbean,#a39628,127,474,MTQ,474,,,,,,,,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+478,Mauritania,Mauritania,1,Western Africa,5,9,3c,Africa,#ff7a00,84,478,MRT,478,0.556,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+480,Mauritius,Mauritius,1,Eastern Africa,1,1,1,Africa,#ff0000,85,480,MUS,480,0.802,4,981,Very High HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+484,Mexico,Mexico,2,Central America,7,3c,1,Latin America and the Caribbean,#a0a328,127,484,MEX,484,0.758,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+496,Mongolia,Mongolia,4,Eastern Asia,10,1,1,Asia,#6dcc32,127,496,MNG,496,0.739,3,982,High HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+498,Moldova,Moldova,5,Eastern Europe,14,3b,1,Europe,#3270cc,127,498,MDA,498,0.767,3,982,High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+499,Montenegro,Montenegro,5,Southern Europe,16,3b,2a,Europe,#8684e0,127,499,MNE,499,0.832,4,981,Very High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+504,Morocco,Morocco,1,Northern Africa,3,2b,3c,Africa,#ef9275,86,504,MAR,504,0.683,2,983,Medium HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+508,Mozambique,Mozambique,1,Eastern Africa,1,2b,3c,Africa,#cc0000,87,508,MOZ,508,0.446,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+512,Oman,Oman,4,Western Asia,13,1,3c,Asia,#00ffc9,127,512,OMN,512,0.816,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+516,Namibia,Namibia,1,Southern Africa,4,1,3c,Africa,#893b0f,88,516,NAM,516,0.615,2,983,Medium HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+524,Nepal,Nepal,4,South Central Asia,12,9,3c,Asia,#84e0a9,127,524,NPL,524,0.602,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+528,The Netherlands,The Netherlands,5,Western Europe,17,1,1,Europe,#775bd6,127,528,NLD,528,0.941,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+540,New Caledonia,Fr. New Caledonia,6,Melanesia,19,1,3c,Oceania,#ea47bc,127,540,NCL,540,,,,,High income,1,987,"",,,WPRO,WHO Western Pacific region (WPRO),996
+548,Vanuatu,Vanuatu,6,Melanesia,19,9,3c,Oceania,#cc32a1,127,548,VUT,548,0.607,2,983,Medium HDI,Lower middle income,3,989,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+554,New Zealand,New Zealand,6,Australia/New Zealand,18,1,1,Oceania,#ea47da,127,554,NZL,554,0.937,4,981,Very High HDI,High income,1,987,"",,,WPRO,WHO Western Pacific region (WPRO),996
+558,Nicaragua,Nicaragua,2,Central America,7,3c,1,Latin America and the Caribbean,#d3d65b,127,558,NIC,558,0.667,2,983,Medium HDI,Lower middle income,3,989,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+562,Niger,Niger,1,Western Africa,5,2a,3c,Africa,#cc6100,89,562,NER,562,0.4,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+566,Nigeria,Nigeria,1,Western Africa,5,2b,3c,Africa,#ff9432,90,566,NGA,566,0.535,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+578,Norway,Norway,5,Northern Europe,15,1,1,Europe,#1e307a,127,578,NOR,578,0.961,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+586,Pakistan,Pakistan,4,South Central Asia,12,2a,3c,Asia,#00ff66,127,586,PAK,586,0.544,1,984,Low HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,EMRO,WHO East Mediterranean region (EMRO),993
+591,Panama,Panama,2,Central America,7,3c,1,Latin America and the Caribbean,#787a1e,127,591,PAN,591,0.805,4,981,Very High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+598,Papua New Guinea,Papua New Guinea,6,Melanesia,19,9,3c,Oceania,#890f67,127,598,PNG,598,0.558,2,983,Medium HDI,Lower middle income,3,989,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+600,Paraguay,Paraguay,2,South America,8,3c,1,Latin America and the Caribbean,#d3e084,127,600,PRY,600,0.717,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+604,Peru,Peru,2,South America,8,3c,1,Latin America and the Caribbean,#dbff00,127,604,PER,604,0.762,3,982,High HDI,Upper middle income,2,988,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+608,Philippines,Philippines,4,South-Eastern Asia,11,2b,3c,Asia,#5bd65d,127,608,PHL,608,0.699,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+616,Poland,Poland,5,Eastern Europe,14,3a,1,Europe,#2859a3,127,616,POL,616,0.876,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+620,Portugal,Portugal,5,Southern Europe,16,3a,1,Europe,#0500ff,127,620,PRT,620,0.866,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+624,Guinea-Bissau,Guinea-Bissau,1,Western Africa,5,9,3c,Africa,#d6965b,76,624,GNB,624,0.483,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+626,Timor-Leste,Timor-Leste,4,South-Eastern Asia,11,9,3c,Asia,#00ff02,127,626,TLS,626,0.607,2,983,Medium HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+630,Puerto Rico,Puerto Rico,2,Caribbean,6,1,1,Latin America and the Caribbean,#e0d784,127,630,PRI,630,,,,,High income,1,987,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+634,Qatar,Qatar,4,Western Asia,13,2a,3c,Asia,#32ffd4,127,634,QAT,634,0.855,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+638,"France, La Réunion",Fr. La Réunion,1,Eastern Africa,1,1,3c,Africa,#a32828,72,638,REU,638,,,,,,,,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+642,Romania,Romania,5,Eastern Europe,14,3b,1,Europe,#5b8cd6,127,642,ROU,642,0.821,4,981,Very High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+643,Russian Federation,Russia,5,Eastern Europe,14,1,1,Europe,#1e437a,127,643,RUS,643,0.822,4,981,Very High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+646,Rwanda,Rwanda,1,Eastern Africa,1,2a,3c,Africa,#ff3232,91,646,RWA,646,0.534,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+662,Saint Lucia,Saint Lucia,2,Caribbean,6,3c,1,Latin America and the Caribbean,#ffe500,127,662,LCA,662,0.715,3,982,High HDI,Upper middle income,2,988,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+678,Sao Tome and Principe,Sao Tome and Principe,1,Western Africa,5,9,3c,Africa,#994900,92,678,STP,678,0.618,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+682,Saudi Arabia,Saudi Arabia,4,Western Asia,13,2a,3c,Asia,#009978,127,682,SAU,682,0.875,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+686,Senegal,Senegal,1,Western Africa,5,9,3c,Africa,#ffaf65,93,686,SEN,686,0.511,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+688,Serbia,Serbia,5,Southern Europe,16,3b,1,Europe,#0400cc,127,688,SRB,688,0.802,4,981,Very High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+694,Sierra Leone,Sierra Leone,1,Western Africa,5,9,3c,Africa,#b27d4c,94,694,SLE,694,0.477,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+702,Singapore,Singapore,4,South-Eastern Asia,11,1,1,Asia,#1e7a1f,127,702,SGP,702,0.939,4,981,Very High HDI,High income,1,987,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+703,Slovakia,Slovakia,5,Eastern Europe,14,3b,1,Europe,#84a9e0,127,703,SVK,703,0.848,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+704,Viet Nam,Viet Nam,4,South-Eastern Asia,11,2b,3c,Asia,#00cc02,127,704,VNM,704,0.703,3,982,High HDI,Lower middle income,3,989,M,"South, East and South-Eastern Asia Hub",974,WPRO,WHO Western Pacific region (WPRO),996
+705,Slovenia,Slovenia,5,Southern Europe,16,1,1,Europe,#3732ff,127,705,SVN,705,0.918,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+706,Somalia,Somalia,1,Eastern Africa,1,9,3c,Africa,#990000,95,706,SOM,706,,,,,Low income,4,990,A,Sub-Saharan Africa Hub,971,EMRO,WHO East Mediterranean region (EMRO),993
+710,South Africa,South Africa,1,Southern Africa,4,2a,1,Africa,#efa175,96,710,ZAF,710,0.713,3,982,High HDI,Upper middle income,2,988,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+716,Zimbabwe,Zimbabwe,1,Eastern Africa,1,2b,3c,Africa,#6b2d2d,106,716,ZWE,716,0.593,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+724,Spain,Spain,5,Southern Europe,16,3a,1,Europe,#030099,127,724,ESP,724,0.905,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+728,South Sudan,South Sudan,1,Eastern Africa,1,9,3c,Africa,#ff6565,97,728,SSD,728,0.385,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+729,Sudan,Sudan,1,Northern Africa,3,2a,3c,Africa,#cc5732,98,729,SDN,729,0.508,1,984,Low HDI,Low income,4,990,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+740,Suriname,Suriname,2,South America,8,3c,1,Latin America and the Caribbean,#afcc00,127,740,SUR,740,0.73,3,982,High HDI,Upper middle income,2,988,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+748,Eswatini,Eswatini,1,Southern Africa,4,1,3c,Africa,#cc6a32,99,748,SWZ,748,0.597,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+752,Sweden,Sweden,5,Northern Europe,15,1,1,Europe,#8496e0,127,752,SWE,752,0.947,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+756,Switzerland,Switzerland,5,Western Europe,17,3a,1,Europe,#4428a3,127,756,CHE,756,0.962,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+760,Syrian Arab Republic,Syria,4,Western Asia,13,3c,1,Asia,#65ffde,127,760,SYR,760,0.577,2,983,Medium HDI,Low income,4,990,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+762,Tajikistan,Tajikistan,4,South Central Asia,12,3c,1,Asia,#32ff84,127,762,TJK,762,0.685,2,983,Medium HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+764,Thailand,Thailand,4,South-Eastern Asia,11,2b,3c,Asia,#84e085,127,764,THA,764,0.8,4,981,Very High HDI,Upper middle income,2,988,M,"South, East and South-Eastern Asia Hub",974,SEARO,WHO South-East Asia region (SEARO),995
+768,Togo,Togo,1,Western Africa,5,9,3c,Africa,#c19770,102,768,TGO,768,0.539,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+780,Trinidad and Tobago,Trinidad and Tobago,2,Caribbean,6,3c,1,Latin America and the Caribbean,#ccb700,127,780,TTO,780,0.81,4,981,Very High HDI,High income,1,987,C,Caribbean hub,972,PAHO,WHO Americas region (PAHO),992
+784,United Arab Emirates,U.A.E.,4,Western Asia,13,1,3c,Asia,#3d8e7d,127,784,ARE,784,0.911,4,981,Very High HDI,High income,1,987,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+788,Tunisia,Tunisia,1,Northern Africa,3,2b,3c,Africa,#a34628,103,788,TUN,788,0.731,3,982,High HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+792,Türkiye,Türkiye,4,Western Asia,13,2b,1,Asia,#4cb29d,127,792,TUR,792,0.838,4,981,Very High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+795,Turkmenistan,Turkmenistan,4,South Central Asia,12,9,3c,Asia,#00993d,127,795,TKM,795,0.745,3,982,High HDI,Upper middle income,2,988,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+800,Uganda,Uganda,1,Eastern Africa,1,2b,3c,Africa,#8e3d3d,104,800,UGA,800,0.525,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+804,Ukraine,Ukraine,5,Eastern Europe,14,1,1,Europe,#0065ff,127,804,UKR,804,0.773,3,982,High HDI,Lower middle income,3,989,E,,,EURO,WHO Europe region (EURO),994
+807,North Macedonia,Macedonia,5,Southern Europe,16,3b,1,Europe,#5e5bd6,127,807,MKD,807,0.77,3,982,High HDI,Upper middle income,2,988,E,,,EURO,WHO Europe region (EURO),994
+818,Egypt,Egypt,1,Northern Africa,3,2a,3c,Africa,#ea6e47,68,818,EGY,818,0.731,3,982,High HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+826,United Kingdom,UK,5,Northern Europe,15,1,1,Europe,#0030ff,127,826,GBR,826,0.929,4,981,Very High HDI,High income,1,987,E,,,EURO,WHO Europe region (EURO),994
+834,"Tanzania, United Republic of",Tanzania,1,Eastern Africa,1,2b,3c,Africa,#b24c4c,100,834,TZA,834,0.549,1,984,Low HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+840,United States of America,USA,3,Northern America,9,1,1,Northern America,#542A35,127,840,USA,840,0.921,4,981,Very High HDI,High income,1,987,NoA,,,PAHO,WHO Americas region (PAHO),992
+854,Burkina Faso,Burkina Faso,1,Western Africa,5,4,3c,Africa,#ea9547,57,854,BFA,854,0.449,1,984,Low HDI,Low income,4,990,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+858,Uruguay,Uruguay,2,South America,8,1,1,Latin America and the Caribbean,#e2ff32,127,858,URY,858,0.809,4,981,Very High HDI,High income,1,987,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+860,Uzbekistan,Uzbekistan,4,South Central Asia,12,3c,1,Asia,#65ffa3,127,860,UZB,860,0.727,3,982,High HDI,Lower middle income,3,989,I,"Northern Africa, Central and Western Asia Hub",975,EURO,WHO Europe region (EURO),994
+862,Venezuela,Venezuela,2,South America,8,3c,1,Latin America and the Caribbean,#839900,127,862,VEN,862,0.691,2,983,Medium HDI,,,,L,Latin America Hub,973,PAHO,WHO Americas region (PAHO),992
+882,Samoa,Samoa,6,Polynesia,21,9,3c,Oceania,#ea4782,127,882,WSM,882,0.707,3,982,High HDI,Lower middle income,3,989,P,Pacific Islands Hub,976,WPRO,WHO Western Pacific region (WPRO),996
+887,Yemen,Yemen,4,Western Asia,13,1,3c,Asia,#70c1b0,127,887,YEM,887,0.455,1,984,Low HDI,Low income,4,990,I,"Northern Africa, Central and Western Asia Hub",975,EMRO,WHO East Mediterranean region (EMRO),993
+894,Zambia,Zambia,1,Eastern Africa,1,2a,3c,Africa,#c17070,105,894,ZMB,894,0.565,2,983,Medium HDI,Lower middle income,3,989,A,Sub-Saharan Africa Hub,971,AFRO,WHO Africa region (AFRO),991
+900,World,World,0,World,0,"","","",#414141,1,900,,900,,,,,,,,,,,,,
+903,Africa,Africa,1,,,"","",Continents,#e51919,2,903,,903,,,,,,,,,,,,,
+904,Latin America and the Caribbean,LAC,2,,,"","",Continents,#F6F31E,5,904,,904,,,,,,,,,,,,,
+905,Northern America,N. America,3,Northern America,9,"","",Continents,#7A263C,6,905,,905,,,,,,,,,,,,,
+906,Eastern Asia,E. Asia,4,Eastern Asia,10,"","",UN Regions,#67e519,35,906,,906,,,,,,,,,,,,,
+908,Europe,Europe,5,,,"","",Continents,#196be5,3,908,,908,,,,,,,,,,,,,
+909,Oceania,Oceania,6,,,"","",Continents,#e519d1,7,909,,909,,,,,,,,,,,,,
+910,Eastern Africa,E. Africa,1,Eastern Africa,1,"","",UN Regions,#e51919,30,910,,910,,,,,,,,,,,,,
+911,Middle Africa,M. Africa,1,Middle Africa,2,"","",UN Regions,#e53119,31,911,,911,,,,,,,,,,,,,
+912,Northern Africa,N. Africa,1,Northern Africa,3,"","",UN Regions,#e54a19,32,912,,912,,,,,,,,,,,,,
+913,Southern Africa,S. Africa,1,Southern Africa,4,"","",UN Regions,#e56219,33,913,,913,,,,,,,,,,,,,
+914,Western Africa,W. Africa,1,Western Africa,5,"","",UN Regions,#e57b19,34,914,,914,,,,,,,,,,,,,
+915,Caribbean,Caribbean,2,Caribbean,6,"","",UN Regions,#e5d119,43,915,,915,,,,,,,,,,,,,
+916,Central America,C. America,2,Central America,7,"","",UN Regions,#e1e519,44,916,,916,,,,,,,,,,,,,
+920,South-Eastern Asia,South-E. Asia,4,South-Eastern Asia,11,"","",UN Regions,#19e51b,36,920,,920,,,,,,,,,,,,,
+921,South Central Asia,South C. Asia,4,South Central Asia,12,"","",UN Regions,#19e56b,37,921,,921,,,,,,,,,,,,,
+922,Western Asia,W. Asia,4,Western Asia,13,"","",UN Regions,#19e5ba,38,922,,922,,,,,,,,,,,,,
+923,Eastern Europe,Central-E. Europe,5,Eastern Europe,14,"","",UN Regions,#196be5,39,923,,923,,,,,,,,,,,,,
+924,Northern Europe,N. Europe,5,Northern Europe,15,"","",UN Regions,#1940e5,40,924,,924,,,,,,,,,,,,,
+925,Southern Europe,S. Europe,5,Southern Europe,16,"","",UN Regions,#1d19e5,41,925,,925,,,,,,,,,,,,,
+926,Western Europe,W. Europe,5,Western Europe,17,"","",UN Regions,#4819e5,42,926,,926,,,,,,,,,,,,,
+927,Australia-New Zealand,Australia/N. Zealand,6,Australia/New Zealand,18,"","",UN Regions,#e519d1,46,927,,927,,,,,,,,,,,,,
+928,Melanesia,Melanesia,6,Melanesia,19,"","",UN Regions,#e519ac,47,928,,928,,,,,,,,,,,,,
+931,South America,S. America,2,South America,8,"","",UN Regions,#c8e519,45,931,,931,,,,,,,,,,,,,
+935,Asia,Asia,4,,,"","",Continents,#2EAD10,4,935,,935,,,,,,,,,,,,,
+940,European Union (27),E.U. (27),,,,"","",Other,#196be5,50,940,,940,,,,,,,,,,,,,
+954,Micronesia,Micronesia,6,Micronesia,20,"","",UN Regions,#e51987,48,954,,954,,,,,,,,,,,,,
+957,Polynesia,Polynesia,6,Polynesia,21,"","",UN Regions,#e51962,49,957,,957,,,,,,,,,,,,,
+963,Sub-Saharan Africa,S.S.Africa,,,,"","",Other,#e51919,51,963,,963,,,,,,,,,,,,,
+964,Micronesia/Polynesia,Micronesia/Polynesia,,,,"","",Other,#e5193e,52,964,,964,,,,,,,,,,,,,
+971,Sub-Saharan Africa Hub,S.S.Africa Hub,,,,"","",GICR hub region,#e51919,24,971,,971,,,,,,,,,,,,,
+972,Caribbean hub,Caribbean Hub,,,,"","",GICR hub region,#7A263C,25,972,,972,,,,,,,,,,,,,
+973,Latin America Hub,L. America Hub,,,,"","",GICR hub region,#F6F31E,26,973,,973,,,,,,,,,,,,,
+974,"South, East and South-Eastern Asia Hub","S., E. and South-E. Asia Hub",,,,"","",GICR hub region,#2EAD10,27,974,,974,,,,,,,,,,,,,
+975,"Northern Africa, Central and Western Asia Hub","N. Africa, C. and W. Asia Hub",,,,"","",GICR hub region,#19e5ba,28,975,,975,,,,,,,,,,,,,
+976,Pacific Islands Hub,P. Islands Hub,,,,"","",GICR hub region,#e519d1,29,976,,976,,,,,,,,,,,,,
+981,Very HDI country,Very high HDI,,,,"","",HDI,#2C7BB6,8,981,,981,,,,,,,,,,,,,
+982,High HDI country,High HDI,,,,"","",HDI,#ABD9E9,9,982,,982,,,,,,,,,,,,,
+983,Medium HDI country,Medium HDI,,,,"","",HDI,#E66101,10,983,,983,,,,,,,,,,,,,
+984,Low HDI country,Low HDI,,,,"","",HDI,#D7191C,11,984,,984,,,,,,,,,,,,,
+985,High HDI country (but China),High HDI / China),,,,"","",HDI,#ABD9E9,12,985,,985,,,,,,,,,,,,,
+986,Medium HDI country (but India),Medium HDI / India,,,,"","",HDI,#E66101,13,986,,986,,,,,,,,,,,,,
+987,High income,High income,,,,"","",World Bank Classification,#F633FF,14,987,,987,,,,,,,,,,,,,
+988,Upper middle income,Upper middle income,,,,"","",World Bank Classification,#33F0FF,15,988,,988,,,,,,,,,,,,,
+989,Lower middle income,Low middle income,,,,"","",World Bank Classification,#BBFF33,16,989,,989,,,,,,,,,,,,,
+990,Low income,Low income,,,,"","",World Bank Classification,#FF8033,17,990,,990,,,,,,,,,,,,,
+991,WHO Africa region (AFRO),AFRO,,,,"","",WHO region,#e51919,18,991,,991,,,,,,,,,,,,,
+992,WHO Americas region (PAHO),PAHO,,,,"","",WHO region,#F6F31E,19,992,,992,,,,,,,,,,,,,
+993,WHO East Mediterranean region (EMRO),EMRO,,,,"","",WHO region,#19e5ba,20,993,,993,,,,,,,,,,,,,
+994,WHO Europe region (EURO),EURO,,,,"","",WHO region,#196be5,21,994,,994,,,,,,,,,,,,,
+995,WHO South-East Asia region (SEARO),SEARO,,,,"","",WHO region,#2EAD10,22,995,,995,,,,,,,,,,,,,
+996,WHO Western Pacific region (WPRO),WPRO,,,,"","",WHO region,#e519d1,23,996,,996,,,,,,,,,,,,,
